@@ -45,7 +45,6 @@ const [crateus,setCratreus] = useState (0)
     //Não sei se é uma boa prática o que tentei fazer para zerar.
     //O professor poderia vre essa parte com nós.
 
-
     return (
         <div>
             <div>
