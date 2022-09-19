@@ -30,13 +30,13 @@ const [crateus,setCratreus] = useState (0)
 
     }
     const reset = ()=>{
-        if (quixada !== 0){
+        if (quixada !== ''){
             setQuixada(0)
         }
-        if (limoeirodonorte !== 0){
+        if (limoeirodonorte !== ''){
             setLimoeirodoNorte(0)
         }
-        if (crateus !== 0){
+        if (crateus !== ''){
             setCratreus(0)
         }
 
